@@ -1,6 +1,12 @@
 channels:
   - conda-forge
+  - mip
 dependencies:
   - appmode
   - pandas
   - matplotlib
+  - Model
+  - xsum
+  - BINARY
+  - INTEGER
+  - OptimizationStatus
