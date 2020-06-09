@@ -1,11 +1,9 @@
+name: python 3.7.4
 channels:
   - conda-forge
 dependencies:
+  - python=3.7.4
   - appmode
   - pandas
   - matplotlib
-  - Model
-  - xsum
-  - BINARY
-  - INTEGER
-  - OptimizationStatus
+  - mip
