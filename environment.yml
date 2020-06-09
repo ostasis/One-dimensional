@@ -3,7 +3,4 @@ channels:
 dependencies:
   - appmode
   - pandas
-  - mip
   - matplotlib
-  - numnpy
-  - uuid
