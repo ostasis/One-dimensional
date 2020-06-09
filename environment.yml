@@ -6,5 +6,5 @@ dependencies:
   - appmode
   - pandas
   - matplotlib
-pip:
-  - mip
+  - pip:
+    - mip
