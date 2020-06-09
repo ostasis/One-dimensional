@@ -4,3 +4,4 @@ dependencies:
   - appmode
   - pandas
   - matplotlib
+  - mip
