@@ -4,5 +4,6 @@ dependencies:
   - appmode
   - pandas
   - mip
-  - matplotlib.pyplot
+  - matplotlib
   - numnpy
+  - uuid
