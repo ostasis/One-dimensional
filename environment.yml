@@ -3,3 +3,6 @@ channels:
 dependencies:
   - appmode
   - pandas
+  - mip
+  - matplotlib.pyplot
+  - numnpy
