@@ -3,8 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.7.4
-  - appmode=0.7.0=py37_1002
-  - pandas=0.25.1=py37he6710b0_0
-  - matplotlib=3.1.1=py37h5429711_0
+  - appmode=0.7.0
+  - pandas=0.25.1
+  - matplotlib=3.1.1
+  - pip=19.2.3
   - pip:
     - mip==1.8.2
