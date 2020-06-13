@@ -1,6 +1,8 @@
 # One-dimensional
 
-Cutting Stock / One-dimensional Bin Packing Problem
+**Cutting Stock / One-dimensional Bin Packing Problem**
+
+## Try it live
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ostasis/One-dimensional/master?urlpath=%2Fapps%2Fone-dimensional-bin-packing.ipynb)
 
